@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdurrahman Ziyad</h1>
-<h3 align="center">I'm a Student Majoring in Informatics Engineering with a strong interest in Web Development.</h3>
+<h3 align="center">I'm a IT Engineer with a strong interest in Web Development.</h3>
 
 - 🔭 I’m currently working on **Projects related to web development and further enhancing my skills in the field**
 
