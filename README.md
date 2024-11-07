@@ -1,4 +1,3 @@
-![Logo](https://media.licdn.com/dms/image/D5616AQFlRbpSvxtmbA/profile-displaybackgroundimage-shrink_350_1400/0/1686392441267?e=1699488000&v=beta&t=Wp2E_KaGtNpf5Pid7TvyDjJZzbDPbGEuem9ZN1qd-3g)
 <h1 align="center">Hi 👋, I'm Abdurrahman Ziyad</h1>
 <h3 align="center">I'm a Student Majoring in Informatics Engineering with a strong interest in Web Development.</h3>
 
